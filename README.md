@@ -20,10 +20,11 @@ Procedure:
 
 
 Flow:
-Collect Data
-Save
-EDA
-ML
-Analyze
-Save
+Collect: 
+    FEDFUNDS, CPI, GDP, UNRATE
+Clean+Save
+Get+EDA
+Get+Transform+Save
+Get+ML+Evaluate+Save: 
+    Linear Regression, XGBoost, ARIMA, Logistic Regression, Prophet
 Dash Board

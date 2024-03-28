@@ -15,4 +15,16 @@ Methodology:
 Procedure:
     1) Collect Federal Funds Rate
     2) Collect Economic 
-        
+
+
+
+
+Flow:
+Collect: 
+    FEDFUNDS, CPI, GDP, UNRATE
+Clean+Save
+Get+EDA
+Get+Transform+Save
+Get+ML+Evaluate+Save: 
+    Linear Regression, XGBoost, ARIMA, Logistic Regression, Prophet
+Dash Board
