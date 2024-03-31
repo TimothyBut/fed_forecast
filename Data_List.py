@@ -6,7 +6,6 @@ dict_data = {"FEDFUNDS": "Federal Funds Effective Rate",
              "TB3MS": "3-Month Treasury Bill Secondary Market Rate, Discount Basis",
              "CPIAUCSL":"Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
              "UNRATE": "Unemployment Rate",
-             "GDP": "Gross Domestic Product"
-            }
+             "GDP": "Gross Domestic Product"}
 
-
+# End of Data List
